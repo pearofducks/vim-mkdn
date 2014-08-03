@@ -124,7 +124,7 @@ hi def link markdownIdDelimiter           markdownLinkDelimiter
 hi def link markdownUrlDelimiter          htmlTag
 hi def link markdownUrlTitleDelimiter     Delimiter
 
-hi def link markdownItalic                htmlItalic
+hi def link markdownItalic                Type
 hi def link markdownBold                  htmlBold
 hi def link markdownBoldItalic            htmlBoldItalic
 hi def link markdownCodeDelimiter         Delimiter
